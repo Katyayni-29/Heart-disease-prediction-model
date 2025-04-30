@@ -15,12 +15,14 @@ This project is a machine learning-based web application that predicts the likel
 
 🛠️ How to Run
 	1.	Clone the repository
-                                    git clone https://github.com/your-username/heart-disease-prediction.git
-                                    cd heart-disease-prediction
+            git clone https://github.com/your-username/heart-disease-prediction.gi
+	    cd heart-disease-prediction
                                     
-  2.  Install dependencies          pip install -r requirements.txt
+  2.  Install dependencies
+            pip install -r requirements.txt
       
-  3.  Run the app                   streamlit run streamlit2.py
+  4.  Run the app
+           streamlit run streamlit2.py
 
   🧠 Model Information
 
